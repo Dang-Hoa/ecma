@@ -1,0 +1,36 @@
+{
+    "projectList": [
+        {
+            "id": 1,
+            "title": "Post 1",
+            "content": "Noi dung bai viet 1",
+            "img": "https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif"
+        },
+        {
+            "id": 2,
+            "title": "Post 2",
+            "content": "Noi dung bai viet 2",
+            "img": "https://us.123rf.com/450wm/apinan/apinan2011/apinan201100024/159108127-businessman-working-on-computer-concept-and-business-people-analytics-and-monitoring-investment-and.jpg?ver=6"
+        },
+        {
+            "id": 3,
+            "title": "Post 3",
+            "content": "Noi dung bai viet 3",
+            "img": "https://topdev.vn/blog/wp-content/uploads/2020/08/programmer.gif"
+        }
+    ],
+    "menu": [
+        {
+            "path": "/",
+            "name": "Home"
+        },
+        {
+            "path": "/project",
+            "name": "Product"
+        },
+        {
+            "path": "/about",
+            "name": "About"
+        }
+    ]
+}
